@@ -3,6 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"author": "Abhijeet Preshobhan",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -10,5 +11,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"description": "A web project to learn npm.",
+	"keywords":["freecodecamp", "beginner", "learning"],
+	"license": "MIT",
+	"version": "1.0.0"
 }
